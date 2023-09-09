@@ -1,0 +1,23 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  text-decoration: none;
+  background: transparent;
+font-family: "Poppins" ,sans-serif;
+    
+}
+html{
+  font-size: 62.5%;
+}
+li{
+  list-style: none;
+}
+body{
+  background:rgb(30,30, 30);
+  color: #66FCF1;
+  overflow: hidden;
+  overflow-y: scroll;
+
+  
+}
